@@ -5,18 +5,18 @@
 </div>
 <p align="center">	
    <a href="https://www.linkedin.com/in/luiz-lima-cezario/">
-      <img alt="Luiz Cezario" src="https://img.shields.io/badge/-luizCezario-4c378b?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Luiz Cezario" src="https://img.shields.io/badge/-luizCezario-49aa26?style=flat&logo=Linkedin&logoColor=white" />
    </a>
 
-  <a aria-label="Completed" href="https://nextlevelweek.com/episodios/node/aula-1/edicao/6">
-    <img src="https://img.shields.io/badge/Proffy-NLW 6.0-4c378b?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  <a aria-label="Completed" href="https://app.rocketseat.com.br/node/maratona-discover-edicao-01">
+    <img src="https://img.shields.io/badge/RocketSeat-Discovery 1.0-49aa26?logo=https://github.com/rocketseat-education/maratona-discover-01/tree/main/.github/logoRs.png"></img>
   </a>
-  <a href="https://github.com/luizlcezario/NLW-Together/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/luizlcezario/NLW-Together?color=4c378b">
+  <a href="https://github.com/luizlcezario/Dev.Finance/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/luizlcezario/NLW-Together?color=49aa26">
   </a> 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-4c378b">
-  <a href="https://github.com/luizlcezario/NLW-Together/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/luizlcezario/NLW-Together?color=4c378b&logo=github">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-49aa26">
+  <a href="https://github.com/luizlcezario/Dev.Finance/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/luizlcezario/NLW-Together?color=49aa26&logo=github">
   </a>
 </p>
 
@@ -81,7 +81,7 @@ Acesse a API: http://localhost:3000/
 
 # :bug: Problemas
 
-Fique a vontade **para criar uma nova issue** com o respectivo titulo e descrição na página de issues do [NLW-Together](https://github.com/luizlcezario/NLW-Together/issues) Repositorio. Se você já encontrou a solução para o problema, **Eu amaria fazer o review do seu pull request**!
+Fique a vontade **para criar uma nova issue** com o respectivo titulo e descrição na página de issues do [NLW-Together](https://github.com/luizlcezario/Dev.Finance/issues) Repositorio. Se você já encontrou a solução para o problema, **Eu amaria fazer o review do seu pull request**!
 
 # :tada: Contribuindo
 
