@@ -56,6 +56,8 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 
 # :page_facing_up: visual 
 
+* [página demo no githubpages](https://luizlcezario.github.io/Dev.Finance)
+
 <img src="./.github/devfinances.png" alt="visual do site "/>
  
 # :construction_worker: Como rodar
